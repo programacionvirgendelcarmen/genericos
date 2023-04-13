@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39be7ed3-955a-456a-842b-6da37905a421" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genericos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teoria/GenericaDoble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teoria/Generico1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teoria/Generico2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teoria/LimitacionTipos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teoria/MetodosGenericos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teoria/Test.java" afterDir="false" />
+    <list default="true" id="39be7ed3-955a-456a-842b-6da37905a421" name="Changes" comment="Teoría tema genéricos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +46,18 @@
       <option name="presentableId" value="Default" />
       <updated>1681141104215</updated>
     </task>
+    <task id="LOCAL-00001" summary="Teoría tema genéricos">
+      <created>1681226110292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681226110293</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teoría tema genéricos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teoría tema genéricos" />
   </component>
 </project>
